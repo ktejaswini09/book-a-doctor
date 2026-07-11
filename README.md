@@ -30,3 +30,8 @@ cd server
 npm install
 npm run dev
 ```
+## 🎥 Demo Video
+
+Watch the project demo here:
+
+https://drive.google.com/file/d/PASTE_YOUR_FILE_ID/view?usp=sharing
