@@ -1,0 +1,6 @@
+{
+  "name": "Book a Doctor",
+  "description": "An innovative healthcare booking platform designed to connect patients with verified doctors, manage appointments, and handle secure document uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

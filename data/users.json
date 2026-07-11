@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "df40b931a09cbc83570ac04e",
+    "fullName": "Tejaswini",
+    "email": "ktejaswini099@gmail.com",
+    "password": "$2b$10$2ma9EEE21.0K51x/tIZzBeEFSGvD.FhYN2h5lsYaSb/Utt4OOfidS",
+    "phone": "9676675494",
+    "type": "user",
+    "isdoctor": true,
+    "notification": [
+      {
+        "type": "doctor-account-approved",
+        "message": "Your Doctor account has been approved",
+        "onClickPath": "/notification",
+        "date": "2026-07-09T15:02:13.789Z"
+      },
+      {
+        "type": "new-appointment-request",
+        "message": "New appointment request from nandu on 2026-07-14 11:35",
+        "onClickPath": "/doctor-appointments",
+        "date": "2026-07-11T06:17:28.441Z"
+      }
+    ],
+    "seennotification": [],
+    "createdAt": "2026-07-09T14:56:37.968Z",
+    "updatedAt": "2026-07-09T14:56:37.968Z"
+  },
+  {
+    "_id": "fa7d2adce292d3dd90720de3",
+    "fullName": "bittu",
+    "email": "bitttuu@gmail.com",
+    "password": "$2b$10$cssXf6QIAMeGJsYHXl8Xle9NQo/Jh859Lyx1eA2NCxG/X3Y9a1H4e",
+    "phone": "8392625896",
+    "type": "admin",
+    "isdoctor": false,
+    "notification": [],
+    "seennotification": [],
+    "createdAt": "2026-07-09T15:01:56.803Z",
+    "updatedAt": "2026-07-09T15:01:56.803Z"
+  },
+  {
+    "_id": "91778472587d3cdcbeee430c",
+    "fullName": "nandu",
+    "email": "nandu12@gmail.com",
+    "password": "$2b$10$NvFGXPzc1FnJgbuvteZhu.u/wty1hVT65TcBKt3au75iZu9P9TBFe",
+    "phone": "9676675494",
+    "type": "user",
+    "isdoctor": false,
+    "notification": [
+      {
+        "type": "appointment-status-updated",
+        "message": "Your appointment with Dr. Tejaswini has been approved",
+        "onClickPath": "/appointments",
+        "date": "2026-07-11T06:18:01.565Z"
+      }
+    ],
+    "seennotification": [],
+    "createdAt": "2026-07-11T06:16:33.925Z",
+    "updatedAt": "2026-07-11T06:16:33.925Z"
+  },
+  {
+    "_id": "a11971886b8b0227d9a7b9ab",
+    "fullName": "suresh",
+    "email": "suresh1@gmail.com",
+    "password": "$2b$10$AhaT1BAwcKwTzrucv2hmj.6n0BIBQ.SRB35Zyq0FnYpmzr526fozS",
+    "phone": "9612667559",
+    "type": "admin",
+    "isdoctor": false,
+    "notification": [],
+    "seennotification": [],
+    "createdAt": "2026-07-11T06:31:50.211Z",
+    "updatedAt": "2026-07-11T06:31:50.211Z"
+  },
+  {
+    "_id": "5ad3cacfd163bd62410f97a6",
+    "fullName": "jyothi",
+    "email": "jyothi23@gmail.com",
+    "password": "$2b$10$.CjPaZ1RZHb6WRcQuWkam..US3QoQV71mTFf7Qo/ehSFeDUkZfev6",
+    "phone": "9126675004",
+    "type": "user",
+    "isdoctor": true,
+    "notification": [
+      {
+        "type": "doctor-account-approved",
+        "message": "Your Doctor account has been approved",
+        "onClickPath": "/notification",
+        "date": "2026-07-11T06:40:33.171Z"
+      },
+      {
+        "type": "new-appointment-request",
+        "message": "New appointment request from paddu on 2026-07-22 10:31",
+        "onClickPath": "/doctor-appointments",
+        "date": "2026-07-11T06:44:46.402Z"
+      }
+    ],
+    "seennotification": [],
+    "createdAt": "2026-07-11T06:36:36.967Z",
+    "updatedAt": "2026-07-11T06:36:36.967Z"
+  },
+  {
+    "_id": "e684f2dc588c88add807048a",
+    "fullName": "paddu",
+    "email": "paddu09@gmail.com",
+    "password": "$2b$10$CnxyyLvPE5XZPqU7wzfaNOM/NKZt2qE/IJyr3jl2epFYTdmEXxii.",
+    "phone": "9674367841",
+    "type": "user",
+    "isdoctor": false,
+    "notification": [],
+    "seennotification": [],
+    "createdAt": "2026-07-11T06:44:07.184Z",
+    "updatedAt": "2026-07-11T06:44:07.184Z"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "7eb9a2627f330b13e75b475c",
+    "userId": "91778472587d3cdcbeee430c",
+    "doctorId": "7c781f2c22272bfd8ff04e3e",
+    "userInfo": {
+      "_id": "91778472587d3cdcbeee430c",
+      "fullName": "nandu",
+      "email": "nandu12@gmail.com",
+      "phone": "9676675494"
+    },
+    "doctorInfo": {
+      "_id": "7c781f2c22272bfd8ff04e3e",
+      "userId": "df40b931a09cbc83570ac04e",
+      "fullName": "Tejaswini",
+      "email": "ktejaswini099@gmail.com",
+      "phone": "9676675494",
+      "address": "Suite 402,Medical center plaza",
+      "specialization": "Cardiologist",
+      "experience": "1",
+      "fees": 500,
+      "status": "approved",
+      "timings": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "createdAt": "2026-07-09T15:00:36.118Z",
+      "updatedAt": "2026-07-09T15:00:36.118Z"
+    },
+    "date": "2026-07-14 11:35",
+    "document": null,
+    "status": "approved",
+    "notes": "",
+    "createdAt": "2026-07-11T06:17:28.428Z",
+    "updatedAt": "2026-07-11T06:17:28.428Z"
+  },
+  {
+    "_id": "e19cbce6e6cec899048c312d",
+    "userId": "e684f2dc588c88add807048a",
+    "doctorId": "8e6a488721270307427c5fdb",
+    "userInfo": {
+      "_id": "e684f2dc588c88add807048a",
+      "fullName": "paddu",
+      "email": "paddu09@gmail.com",
+      "phone": "9674367841"
+    },
+    "doctorInfo": {
+      "_id": "8e6a488721270307427c5fdb",
+      "userId": "5ad3cacfd163bd62410f97a6",
+      "fullName": "jyothi",
+      "email": "jyothi23@gmail.com",
+      "phone": "9126675004",
+      "address": "45,MG road, Visakhapatnam, Andhra pradesh-530017",
+      "specialization": "General Physician",
+      "experience": "3",
+      "fees": 500,
+      "status": "approved",
+      "timings": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "createdAt": "2026-07-11T06:39:11.348Z",
+      "updatedAt": "2026-07-11T06:39:11.348Z"
+    },
+    "date": "2026-07-22 10:31",
+    "document": null,
+    "status": "pending",
+    "notes": "",
+    "createdAt": "2026-07-11T06:44:46.394Z",
+    "updatedAt": "2026-07-11T06:44:46.394Z"
+  }
+]
